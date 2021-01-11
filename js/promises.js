@@ -89,3 +89,5 @@ Promise.all([promise1, promise2, promise3]).then(messages => {
 setTimeout(() => {
   console.log("Timed")
 }, 1000);
+
+
